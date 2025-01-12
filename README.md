@@ -49,9 +49,9 @@
 1. Κλωνοποιήστε το αποθετήριο:
 
    ```git clone https://github.com/dehmitros/uth-eshop.git```
-
-2. ```make```
-3. ```./main```
+2. ```cd uth-eshop```
+3. ```make```
+4. ```./main```
 
 ## 📜 LICENSE
 [License](https://github.com/dehmitros/uth-eshop/blob/master/LICENSE.md)
